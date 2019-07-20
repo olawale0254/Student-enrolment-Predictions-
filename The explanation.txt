@@ -1,0 +1,44 @@
+﻿The explanation of the features
+1.Mathematics: this is the olevel course which is between 6 and 0
+A1 -6
+B2-5
+B3-4
+C4-3
+C5-2
+C6-1
+D7 below -0
+2. English: same as above
+3.subject3	: same as above
+4.subject4	: same as above
+5. subect5	: same as above
+SSCEcomposite:  this was computed by adding all the Olevel score and multiplying it by 1/30
+Jambcomposite: this was computed by dividing the jamb score by 4
+Composite: this was calculated by adding SSCEcomposite and jampcomposite together and dividing it by 2.
+Dept: this is the department each student applied for these are
+ARTS AND DESIGN':1, 
+'SCIENCE LABORATORY TECHNOLOGY':2,
+ 'TRANSPORTATION PLANNING AND MANAGEMENT':3,
+  'BUSINESS ADMINISTRATION & MANAGEMENT':4, 
+'ARCHITECTURAL TECHNOLOGY':5,
+ 'MECHANICAL ENGINEERING TECHNOLOGY':6,
+ 'AGRICULTURAL ENGINEERING/TECHNOLOGY':7,
+ 'CIVIL ENGINEERING TECHNOLOGY':8, 'BANKING AND FINANCE':9, 'ELECTRICAL/ELECTRONICS ENGINEERING':10
+'URBAN AND REGIONAL PLANNING':11, 'MASS COMMUNICATION':12,
+'HOSPITALITY MANAGEMENT':13, 'INSURANCE':14, 
+'BUILDING TECHNOLOGY':15,
+'PUBLIC ADMINISTRATION':16, 'COMPUTER ENGINEERING':17,
+'QUANTITY SURVEYING':18, 'MARKETING':19,
+ 'STATISTICS':20,
+ 'COMPUTER SCIENCE':21,
+ 'NUTRITION AND DIETETICS':22, 
+'FOOD TECHNOLOGY':23, 'ACCOUNTANCY':24, 
+'LIBRARY AND INFORMATION SCIENCE':25, 
+'TAXATION':26,
+'SURVEYING AND GEO-INFORMATICS':27,
+'ESTATE MANAGEMENT AND VALUATION':28,
+OFFICE TECHNOLOGY AND MANAGEMENT':29
+Dptcutoff:  This is the departmental cut off mark
+Verdict: this is our target variable and it was mainly computed by setting an hypothesis such that if composite is  ≥ 50 and dptcutoff is ≥ jamb score then the student is admitted else the student is denied admission. 
+It is 0- Not admitted
+1- addmited
+
